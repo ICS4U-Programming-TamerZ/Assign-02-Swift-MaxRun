@@ -1,0 +1,14 @@
+Max run of 'This is a text 4a's aaaa max run should be 4 lll' is: 4
+Min run of 'This is a text 4a's aaaa max run should be 4 lll' is: 1
+Max run of 'llllllllllll max run should be 9' is: 12
+Min run of 'llllllllllll max run should be 9' is: 1
+Max run of 'Max run for whole file is 7 and for this line it is going to be 4 4444' is: 4
+Min run of 'Max run for whole file is 7 and for this line it is going to be 4 4444' is: 1
+Max run of 'Min run for the next line is 3 and for this is 1' is: 1
+Min run of 'Min run for the next line is 3 and for this is 1' is: 1
+Max run of '333444222' is: 3
+Min run of '333444222' is: 3
+Max run of 'aaAaAbbb' is: 5
+Min run of 'aaAaAbbb' is: 3
+Max run of the entire file is: 12
+Min run of the entire file is: 1
